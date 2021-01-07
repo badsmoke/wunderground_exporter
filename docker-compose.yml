@@ -1,0 +1,9 @@
+version: '2'
+services:
+  wunderground_exporter:
+    image: badsmoke/wunderground_exporter
+    ports:
+        - 9122:9122
+    environment:
+        - "ENV_STATION_ID=IDRESDEN521"
+        - "ENV_API_KEY=1234f5670ae8910aa6f4110ae4588a87"
