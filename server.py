@@ -85,7 +85,7 @@ def generateMetrics():
         country = str(resp_json["country"])
 
         print(json_dict)
-        labels="{stationID=\""+stationID+"\",obsTimeUtc=\""+obsTimeUtc+"\",neighborhood=\""+neighborhood+"\",softwareType=\""+softwareType+"\",country=\""+country+"\"}"
+        labels="{stationID=\""+stationID+"\",neighborhood=\""+neighborhood+"\",softwareType=\""+softwareType+"\",country=\""+country+"\"}"
         
         for key in json_dict:
             if json_dict[key] != "None":
