@@ -78,36 +78,36 @@ CMD [ "python","-u","/usr/src/app/server.py" ]
 
 ```
 # TYPE wunderground_observations_lon gauge
-wunderground_observations_lon{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 13.691622
+wunderground_observations_lon{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 13.691622
 # TYPE wunderground_observations_epoch gauge
-wunderground_observations_epoch{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 1609774570
+wunderground_observations_epoch{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 1609774570
 # TYPE wunderground_observations_lat gauge
-wunderground_observations_lat{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 51.044556
+wunderground_observations_lat{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 51.044556
 # TYPE wunderground_observations_winddir gauge
-wunderground_observations_winddir{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 203
+wunderground_observations_winddir{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 203
 # TYPE wunderground_observations_humidity gauge
-wunderground_observations_humidity{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 99
+wunderground_observations_humidity{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 99
 # TYPE wunderground_observations_qcStatus gauge
-wunderground_observations_qcStatus{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 1
+wunderground_observations_qcStatus{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 1
 # TYPE wunderground_metric_temp gauge
-wunderground_metric_temp{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 1
+wunderground_metric_temp{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 1
 # TYPE wunderground_metric_heatIndex gauge
-wunderground_metric_heatIndex{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 1
+wunderground_metric_heatIndex{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 1
 # TYPE wunderground_metric_dewpt gauge
-wunderground_metric_dewpt{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 1
+wunderground_metric_dewpt{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 1
 # TYPE wunderground_metric_windChill gauge
-wunderground_metric_windChill{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 0
+wunderground_metric_windChill{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 0
 # TYPE wunderground_metric_windSpeed gauge
-wunderground_metric_windSpeed{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 5
+wunderground_metric_windSpeed{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 5
 # TYPE wunderground_metric_windGust gauge
-wunderground_metric_windGust{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 6
+wunderground_metric_windGust{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 6
 # TYPE wunderground_metric_pressure gauge
-wunderground_metric_pressure{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 1000.34
+wunderground_metric_pressure{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 1000.34
 # TYPE wunderground_metric_precipRate gauge
-wunderground_metric_precipRate{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 0.0
+wunderground_metric_precipRate{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 0.0
 # TYPE wunderground_metric_precipTotal gauge
-wunderground_metric_precipTotal{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 2.03
+wunderground_metric_precipTotal{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 2.03
 # TYPE wunderground_metric_elev gauge
-wunderground_metric_elev{stationID="IDRESDEN521",obsTimeUtc="2021-01-04T15:36:10Z",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 132
+wunderground_metric_elev{stationID="IDRESDEN521",neighborhood="Stollestr.Dach",softwareType="myAcuRite",country="DE"} 132
 
 ```
